@@ -85,3 +85,10 @@ the -p 15353 option.
 Another solution is allowing a binary to bind to ports < 1024 with setcap (IPv6 access-safe)
 
 $ setcap 'cap_net_bind_service=+ep' /path/to/dnsseed
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
